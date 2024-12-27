@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Climber of the year. Gore engineer of the month. Aspirational dog mom. Ultramarathoner. Typerwriter owner. Candlemaker extraordinaire.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
