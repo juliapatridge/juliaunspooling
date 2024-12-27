@@ -1,5 +1,3 @@
-## Welcome to your blog!
-
 Hi Julia! Merry Christmas and welcome to your very own blog!
 
 You're probably reading this in Flagstaff together with our wonderful extended Pima family. What a great adventure we're on, from Austin to Aspen and beyond--I'm very grateful for the friendship that I've been able to grow here and seeing it blossom and transform into what it is now has been so beautiful!
