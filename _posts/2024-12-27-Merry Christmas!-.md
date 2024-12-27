@@ -1,4 +1,4 @@
-## Welcome to _your_ blog!
+## Welcome to your blog!
 
 Hi Julia! Merry Christmas and welcome to your very own blog!
 
@@ -6,14 +6,12 @@ You're probably reading this in Flagstaff together with our wonderful extended P
 
 Ok, on to the blog. **First thing** to know is that this is not your blog yet! It's code sitting on my GitHub account. I'll show you how to create a GitHub account and "fork" this code into your own repository. Then it's all yours!
 
-**Second**, I'm writing this from a website called [Prose.io](https://prose.io) which is a file editor that feels a bit more like a traditional editor. Once you have your GitHub account setup you can link it to Prose and never go to GitHub.com again, yay!
-
-**Three**, this blog is built with Jekyll, which uses [Markdown](https://www.markdownguide.org/basic-syntax/). Markdown is a way to format text inline (instead of the graphical toolbox found in Word). It's easy, follow that link to learn more!
+**Second**, this blog is built with Jekyll, which uses [Markdown](https://www.markdownguide.org/basic-syntax/). Markdown is a way to format text inline (instead of the graphical toolbox found in Word). It's easy, follow that link to learn more!
 
 Images are easy too. Here's a puppy.
 ![puppy.png]({{site.baseurl}}/images/puppy.png)
 
-**Number four**, this gift uncludes unlimited tech support and a free design session to make this blog look exactly how you want! I'm talking colors, fonts, images, animations--you name it. 
+**Third**, this gift uncludes unlimited tech support and a free design session to make this blog look exactly how you want! I'm talking colors, fonts, images, animations--you name it. 
 
 I'm thankful for how you've shown so much care for my endevours and I want to nurture yours too, so here you go--Julia has a blog! I can't wait to read what you have to say.
 
