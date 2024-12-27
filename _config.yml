@@ -6,7 +6,7 @@
 name: "Julia's Blog"
 
 # Short bio or description (displayed in the header)
-description: Merry Christmas Julia <3
+description: Merry Christmas Julia!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://i.imgur.com/oHiAtud.jpeg
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github:
-  instagram: https://www.instagram.com/juliapatridge/
+  instagram: juliapatridge
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
