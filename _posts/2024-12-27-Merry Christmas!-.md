@@ -13,7 +13,7 @@ Images are easy too. Here's a puppy.
 
 I'm thankful for how you've shown so much care for my endevours and I want to nurture yours too, so here you go--Julia has a blog! I can't wait to read what you have to say.
 
-Love,
+Love you,
 
 Tommy
 
